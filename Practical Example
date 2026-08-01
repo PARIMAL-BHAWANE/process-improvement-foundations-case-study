@@ -1,0 +1,37 @@
+Practical Example
+
+The repository contains a solved Line Balancing exercise.
+
+Skills
+Process Improvement
+Lean Manufacturing
+Six Sigma
+Business Operations
+Supply Chain
+Operations Management
+Glossary
+
+From the course glossary:
+
+Term	Meaning
+Action Limit	Point where corrective action is required
+Bottleneck	Process limiting throughput
+Lead Time	Order to delivery duration
+Lean	Eliminate waste
+Queues	Waiting before bottlenecks
+Six Sigma	Reduce defects
+Statistical Process Control	Monitor and control quality
+
+These definitions match the glossary provided with the course.
+
+Solved Line Balancing Exercise
+
+The exercise describes a cafeteria process with these service times:
+
+Station	Time
+Soup	20 s
+Meat	30 s
+Vegetables	20 s
+Dessert	15 s
+Drinks	10 s
+Cashier	60 s
